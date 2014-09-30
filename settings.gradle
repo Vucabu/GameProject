@@ -1,0 +1,1 @@
+include 'modules:app', 'modules:andEngine', 'modules:andEnginePhysicsBox2d'
